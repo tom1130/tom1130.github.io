@@ -4,7 +4,7 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://blackrockdigital.github.io"
-
+theme: jekyll-theme-clean-blog
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    BlackrockDigital
