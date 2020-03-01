@@ -1,13 +1,13 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              GIHO'S BLOG
+email:              tom1130@naver.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            ""
 url:                ""
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+#twitter_username:   SBootstrap
+github_username:    tom1130
+#facebook_username:  StartBootstrap
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
