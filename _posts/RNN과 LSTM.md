@@ -4,7 +4,7 @@
 
 1. RNN의 기본 구조
 
- <img src="C:\Users\GIHO\Desktop\Q8zv6TQ.png" alt="RNN" style="zoom: 50%;" />
+ <img src="./img/Q8zv6TQ" />
 
    - 전통적인 neural network -> 지속되는 생각을 하지 못함
 
